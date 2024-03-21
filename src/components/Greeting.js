@@ -1,4 +1,5 @@
 import { useState } from "react"
+import Output from "./Output"
 
 export default function Greeting() {
 
@@ -10,7 +11,7 @@ export default function Greeting() {
 
     return <div>
         <h2>Hello world</h2>
-        {changedText ? <p>Nice to see you</p>: <p> Jello</p>}
+        {changedText ? <Output>Nice to see you</Output>: <Output> Jello</Output>}
         <button onClick={changeTextHandler}/>
     </div>
 }
