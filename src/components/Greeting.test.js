@@ -24,4 +24,11 @@ describe("Greeting Component", () => {
         const helloworld = screen.getByText("Nice to see you", { exact: false });
         expect(helloworld).toBeInTheDocument();
     })
+    test("Button clicked, not clicked element disappears ",()=>{
+        render(<Greeting/>)
+        const buttonElem = screen.getByRole('button')
+        userEvent.click(buttonElem)
+        const helloworld = screen.queryByText("Jello", { exact: false });
+        expect(helloworld).toBeNull();
+    })
 });
