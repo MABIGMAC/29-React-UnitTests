@@ -32,3 +32,10 @@ https://github.com/orgs/STARLAKE-LAKERS/projects/1/views/1
 https://docs.google.com/presentation/d/1AMIjRKvngZaCPG4n730DW3tb3MN2tQZYmi-2A_v55RA/edit#slide=id.g2c002906693_0_491
 
 How do we enforce this? Manually is not sustainable so we use Github Actions!
+
+# What should actually be in a readme
+ - Introduction: Give a brief overview of what the project does and its purpose.
+ - System Design: A overview into the infrastructure this app is connected to, providing more context
+ - Getting Started: Provide instructions on how to get the project up and running
+ - Usage: Explain how to use the product once it's set up. Provide examples or code snippets to demonstrate common use cases.
+ - Configuration Options/Environment Variables: Used by the web app
