@@ -39,3 +39,6 @@ How do we enforce this? Manually is not sustainable so we use Github Actions!
  - Getting Started: Provide instructions on how to get the project up and running
  - Usage: Explain how to use the product once it's set up. Provide examples or code snippets to demonstrate common use cases.
  - Configuration Options/Environment Variables: Used by the web app
+
+
+readme
