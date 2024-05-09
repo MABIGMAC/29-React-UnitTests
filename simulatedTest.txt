@@ -3,3 +3,4 @@ fix: resolve memory leak in data processing module
 feat: Create new feature to ensure release works
 
 feat1 added
+feat2 added
