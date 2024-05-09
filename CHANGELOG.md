@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/MABIGMAC/29-React-UnitTests/compare/v1.3.2...v1.4.0) (2024-05-09)
+
+
+### Features
+
+* added feat 3 ([50dec41](https://github.com/MABIGMAC/29-React-UnitTests/commit/50dec41cf5e62f6455e5fbb70773d2dd4555e4c5))
+
 ## [1.3.2](https://github.com/MABIGMAC/29-React-UnitTests/compare/v1.3.1...v1.3.2) (2024-05-09)
 
 
