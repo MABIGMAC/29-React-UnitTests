@@ -10,3 +10,7 @@ fix3 added
 fix4 added
 feat3 added
 fix5 added
+new commit
+
+fix6 added
+fix7 added
