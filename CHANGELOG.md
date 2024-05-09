@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.2](https://github.com/MABIGMAC/29-React-UnitTests/compare/v1.3.1...v1.3.2) (2024-05-09)
+
+
+### Bug Fixes
+
+* Added renaming branch ([ebbcfd5](https://github.com/MABIGMAC/29-React-UnitTests/commit/ebbcfd53dcbf9c965f02f5d225810d731dfde09f))
+
 ## [1.3.1](https://github.com/MABIGMAC/29-React-UnitTests/compare/v1.3.0...v1.3.1) (2024-05-09)
 
 
