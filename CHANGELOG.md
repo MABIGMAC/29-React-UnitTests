@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/MABIGMAC/29-React-UnitTests/compare/v1.0.0...v1.1.0) (2024-05-09)
+
+
+### Features
+
+* Create new feature to ensure work ([987467b](https://github.com/MABIGMAC/29-React-UnitTests/commit/987467b203393cca4b4eaf34664c317f91001df4))
+
 ## 1.0.0 (2024-05-09)
 
 
