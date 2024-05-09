@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.1](https://github.com/MABIGMAC/29-React-UnitTests/compare/v1.4.0...v1.4.1) (2024-05-09)
+
+
+### Bug Fixes
+
+* Created this fix ([ba4c70c](https://github.com/MABIGMAC/29-React-UnitTests/commit/ba4c70c28f39a5b7ccaaa903f5186ac12c58107f))
+
 ## [1.4.0](https://github.com/MABIGMAC/29-React-UnitTests/compare/v1.3.2...v1.4.0) (2024-05-09)
 
 
