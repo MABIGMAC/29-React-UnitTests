@@ -4,3 +4,4 @@ feat: Create new feature to ensure release works
 
 feat1 added
 feat2 added
+fix1 added
