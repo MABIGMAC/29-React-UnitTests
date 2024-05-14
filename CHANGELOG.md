@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.6.0](https://github.com/MABIGMAC/29-React-UnitTests/compare/v1.5.0...v1.6.0) (2024-05-14)
+
+
+### Features
+
+* added feat 8 ([3c6ba59](https://github.com/MABIGMAC/29-React-UnitTests/commit/3c6ba59a4d84269a686ead36e206041cb10acec1))
+
+
+### Bug Fixes
+
+* added fix 8 ([08daa03](https://github.com/MABIGMAC/29-React-UnitTests/commit/08daa03c96836c1603edc5b79d05e52718cabad4))
+
 ## [1.5.0](https://github.com/MABIGMAC/29-React-UnitTests/compare/v1.4.1...v1.5.0) (2024-05-09)
 
 
